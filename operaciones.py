@@ -3,5 +3,7 @@ n =input(print("Seleccione una operacion\n" \
 "2) Resta\n" \
 "3) Multiplicacion\n" \
 "4) Division\n" \
-"5) Porcentaje"))
+"5) Porcentaje\n" \
+"6) TESTS UNITARIOS"
+))
 
